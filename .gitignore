@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.ipynb_checkpoints/
+AutogluonModels/
+backend/ag_model/
+datasets/

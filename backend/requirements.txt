@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+autogluon.tabular
+pandas
+pydantic
+scikit-learn

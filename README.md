@@ -1,0 +1,2 @@
+# Crop-Yield-Prediction-Using-Auto-ML-With-Auto-Gluon
+This work presents a crop yield prediction system using AutoGluon AutoML. The model analyzes agricultural parameters such as soil properties,rainfall,temperature,and historical yield data to generate accurate predictions.Automated model selection,feature engineering,hyperparameter tuning improve prediction performance,support precision agriculture.
